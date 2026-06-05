@@ -1,0 +1,6 @@
+groq
+python-dotenv
+pypdf
+celery
+redis
+pytz
